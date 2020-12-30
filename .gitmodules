@@ -1,0 +1,12 @@
+[submodule ".vim/bundle/mru.vim"]
+	path = .vim/bundle/mru.vim
+	url = https://github.com/vim-scripts/mru.vim.git
+[submodule ".vim/bundle/riv.vim"]
+	path = .vim/bundle/riv.vim
+	url = https://github.com/rykka/riv.vim.git
+[submodule ".vim/bundle/qfixhowm.vim"]
+	path = .vim/bundle/qfixhowm.vim
+	url = https://github.com/fuenor/qfixhowm.git
+[submodule ".vim/bundle/vimdoc-ja.vim"]
+	path = .vim/bundle/vimdoc-ja.vim
+	url = https://github.com/vim-jp/vimdoc-ja.git
